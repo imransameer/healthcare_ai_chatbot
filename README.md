@@ -1,4 +1,3 @@
-# healthcare_ai_chatbot
 # HealthCare Assistant ChatBot
 
 ## Introduction
